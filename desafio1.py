@@ -62,4 +62,4 @@ while True:
     break 
 
   else:
-    print("Operação inválida, selecione a operação desejada:")
+    print("Operação inválida, selecione a operação desejada: ")
